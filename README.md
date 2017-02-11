@@ -1,4 +1,6 @@
 # crashpad-to-issue_node
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/MTRNord/crashpad-to-issue_node.svg)](https://greenkeeper.io/)
 An Heroku compatible crashpad server that makes a new issue on error.
 
 # Code used
